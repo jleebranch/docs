@@ -10,7 +10,7 @@ source: google-ads-overview.md
 
 ![Google_Adwords](https://cdn.branch.io/branch-assets/ad-partner-manager/386574786681131050/adwords-1528518485386.png)
 
-With Branch, you can integrate with **[AdWords](https://adwords.google.com/)**, improving conversion rates and letting you measure the impact of your campaigns right on the Branch dahsboard.
+With Branch, you can integrate with **[AdWords](https://adwords.google.com/)**, improving conversion rates and letting you measure the impact of your campaigns right on the Branch dashboard.
 
 This document covers the new AdWords experience. If you are using the old experience, be sure to switch to the new experience.
 
