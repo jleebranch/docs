@@ -306,7 +306,7 @@ Branch always reports installs based on the date of install, never the date of i
 
 Let's illustrate this with a scenario:
 
-User views an ad on Apil 1, clicks it, then installs the app on April 2.
+User views an ad on April 1, clicks it, then installs the app on April 2.
 
 By default, Facebook reports the install as occurring on April 1. However, when pulling data from the insights API, you can specify option action_report_time=conversion. This causes Facebook to report that the install occurred on April 2.
 
