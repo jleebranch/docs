@@ -21,7 +21,7 @@
 
     - Add your link domains from your [Branch Dashboard](https://dashboard.branch.io/settings/link)
     - `-alternate` is needed for Universal Linking with the [Web SDK](/pages/web/integrate/) inside your Website
-    - `test-` is needed if you need use a [test key](#use-test-key)
+    - `test-` is needed if you need to use a [test key](#use-test-key)
     - If you use a [custom link domain](/pages/dashboard/integrate/#change-link-domain), you will need to include your old link domain, your `-alternate` link domain, and your new link domain
 
         ![image](/img/pages/apps/ios-entitlements.png)
